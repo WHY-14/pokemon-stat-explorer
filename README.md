@@ -31,6 +31,7 @@ Then open your browser and go to the link in the terminal.
 
 ## Screenshot
 <img width="2228" height="1140" alt="image" src="https://github.com/user-attachments/assets/ba2a62c3-25bb-49eb-b655-3df185e98449" />
+<img width="2228" height="530" alt="image" src="https://github.com/user-attachments/assets/96c1f786-1442-4da5-adb2-94cab59225c4" />
 
 ## Data Source
 - Pokemon data from https://www.kaggle.com/datasets/maca11/all-pokemon-dataset/data
