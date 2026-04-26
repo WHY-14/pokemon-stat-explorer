@@ -33,5 +33,5 @@ Then open your browser and go to the link in the terminal.
 <img width="2228" height="1140" alt="image" src="https://github.com/user-attachments/assets/ba2a62c3-25bb-49eb-b655-3df185e98449" />
 
 ## Data Source
-Pokemon data from https://www.kaggle.com/datasets/maca11/all-pokemon-dataset/data
-Pokemon images from [PokeAPI Sprites] https://github.com/PokeAPI/sprites © The Pokémon Company / Nintendo
+- Pokemon data from https://www.kaggle.com/datasets/maca11/all-pokemon-dataset/data
+- Pokemon images from [PokeAPI Sprites] https://github.com/PokeAPI/sprites © The Pokémon Company / Nintendo
